@@ -49,8 +49,7 @@ body {
     </ul>
   </div>
 </nav> 
-<canvas id="myCanvas">
-</canvas>
+
 <div>
 <div class="row">
     <div class="col-2 text-center"> <br/>
@@ -80,33 +79,8 @@ body {
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
-  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam molli
+  ctetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+ 
   </p>
     </div>
     <div class="col-md-2 text-center"> <br/>
@@ -120,6 +94,8 @@ body {
     <footer>
       Bienvenue
     </footer>
+    <canvas id="myCanvas">
+</canvas>
 </body>
 <script src="stars.js"></script>
 </html>
