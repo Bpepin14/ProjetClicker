@@ -55,7 +55,7 @@ body {
     <div class="col-2 text-center"> <br/>
       <img src="ImageGentils/punisher.png" alt="punisher"> 
       <img src="ImageGentils/marvel.png" alt="marvel">
-      <img src="ImageGentils/blackpanther.png" alt="blackpanther">
+      <img src="ImageGentils/deadpool.png" alt="deadpool">
     </div>
     <div class="col-8 main-content">
     
