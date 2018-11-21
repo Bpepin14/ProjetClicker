@@ -26,7 +26,7 @@
       <li class="nav-item">
         <a class="nav-link" href="game.php">Le jeu</a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="about.php">A propos</a>
       </li>
     </ul>

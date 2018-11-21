@@ -20,10 +20,10 @@
 
   <div class="collapse navbar-collapse" id="navbarColor01">
     <ul class="navbar-nav mr-auto">
-      <li class="nav-item active">
+      <li class="nav-item">
         <a class="nav-link" href="home.php">Acceuil <span class="sr-only">(current)</span></a>
       </li>
-      <li class="nav-item">
+      <li class="nav-item active">
         <a class="nav-link" href="game.php">Le jeu</a>
       </li>
       <li class="nav-item">
@@ -32,6 +32,39 @@
     </ul>
   </div>
 </nav> 
-    
+
+<div class="container">
+<p>Salut
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
+  </p>
+</div>
+    <footer>
+      Bienvenue
+    </footer>
 </body>
 </html>
