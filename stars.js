@@ -135,13 +135,6 @@ shootingStarDir = 0.5,
 bgTop = moonY / maxY,
 fadeOut = 0;
     
-
-document.addEventListener('click', function(e){
-  e.preventDefault();
-  shootingStarX = e.clientX;
-  shootingStarY = e.clientY;
-});
-
 function draw() {
     canDraw.clearRect(0,0,maxX,maxY);
     //Draw the backgrounds
