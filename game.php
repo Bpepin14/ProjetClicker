@@ -7,12 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
     <script src="main.js"></script>
-<<<<<<< Updated upstream
     <link rel="stylesheet" href="https://bootswatch.com/4/lux/bootstrap.min.css">
     <link rel="stylesheet" href="css/custom.css">
-=======
     <link rel="stylesheet" href="css/bootstrap.min.css">
->>>>>>> Stashed changes
 
 </head>
 <body>
