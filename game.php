@@ -33,7 +33,13 @@
   </div>
 </nav> 
 
-<div class="container">
+<div>
+<div class="row">
+    <div class="col-2">
+      One of three columns
+    </div>
+    <div class="col-8">
+      
 <p>Salut
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
@@ -62,6 +68,11 @@
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
   Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quibusdam nulla, non aliquam mollitia esse eveniet animi. Repellat eos consectetur dolore qui fugit quia, natus nihil ratione saepe deleniti sequi voluptates!
   </p>
+    </div>
+    <div class="col-2">
+      One of three columns
+    </div>
+</div>
 </div>
     <footer>
       Bienvenue
