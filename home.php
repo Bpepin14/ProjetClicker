@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>The clicker project ma bite</title>
+    <title>The clicker project</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/all.css">
@@ -73,11 +73,13 @@ p, h1, h4 {
     </div>
     <div class="col-8 main-content">
     <br/>
-    <h1>Etes vous prets à relever le défi ?</h1>
+    <h1>Ready to take the challenge? </h1>
     <br/><br/>
-    <h4>Un nouveau clicker est né..</h4>
-
+    <h4>A new clicker is born..</h4>
     <img src="images/unlimited_progress.png" alt="Oui" class="center">
+  <p>Cliquez pour infliger des degats, plus vous évoluez plus vous débloquerez des alliés de taille qui vont aiderons dans votre combat</p>
+    <h4>Set off on a colourful adventure and overcome your enemies in exhilarating battles</h4>
+
     </div>
     
     <div class="col-md-2 text-center"> <br/>

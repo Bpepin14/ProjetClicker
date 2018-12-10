@@ -12,6 +12,13 @@ if(isset($_SESSION['id'])) {
       header('Location: profil.php?id='.$_SESSION['id']);
    }
 
+   if(isset($_POST['newdatenaissance']) AND !empty($_POST['newdatenaissance']) AND $_POST['newdatenaissance'] != $user['datenaissance']) {
+       $newdatenaissance = htmlspecialchars($_POST['newdatenaissance']);
+       $insertnaissance = $bdd->prepare("UPDATE membres set datenaissance = ? WHERE id = ?");
+       $insertnaissance->execute(array($newdatenaissance, $_SESSION['id']));
+       header('Location: profil.php?id='.$_SESSION['id']);
+   } 
+
    
    if(isset($_POST['newmdp1']) AND !empty($_POST['newmdp1']) AND isset($_POST['newmdp2']) AND !empty($_POST['newmdp2'])) {
       $mdp1 = sha1($_POST['newmdp1']);
@@ -32,7 +39,7 @@ if(isset($_SESSION['id'])) {
     if($_FILES['avatar']['size'] <= $tailleMax) {
         $extensionUpload = strtolower(substr(strrchr($_FILES['avatar']['name'], '.'), 1));
         if(in_array($extensionUpload, $extensionsValides)) {
-            $chemin = "membres/avatars/".$_SESSION['id'].".".$extensionUpload;
+            $chemin = "images/avatars/".$_SESSION['id'].".".$extensionUpload;
             $resultat = move_uploaded_file($_FILES['avatar']['tmp_name'], $chemin);
             if($resultat) {
                 $updateavatar = $bdd->prepare('UPDATE membres SET avatar = :avatar WHERE id = :id');

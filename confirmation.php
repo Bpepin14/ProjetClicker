@@ -1,25 +1,28 @@
 <?php 
-try
-{
-$bdd = new PDO('mysql:host=localhost;dbname=espace_membre', 'root', '');
+try {
+    $bdd = new PDO('mysql:host=localhost;dbname=marketingwars;charset=utf8', 'root', '');
+}
+catch(Exception $e) {
+
+    die('Erreur : '.$e->getMessage());
 }
 
-catch(Exception $e)
-{
-        die('Erreur : '.$e->getMessage());
-}
-
+    //Si les variables existent et ne sont pas vides
     if(isset($_GET['pseudo'], $_GET['key']) AND !empty($_GET['pseudo']) AND !empty($_GET['key']))
     {
+        //On les définis
     $pseudo = htmlspecialchars(urldecode($_GET['pseudo']));
     $key = htmlspecialchars($_GET['key']);
 
+    //On prépare et execute la requete pour vérifier si l'utilisateur a été validé
     $requser = $bdd->prepare("SELECT * FROM membres WHERE pseudo = ? AND confirmkey = ?");
     $requser->execute(array($pseudo, $key));
     $userexist = $requser->rowCount();
 
+    //Si cet utilisateur a été validé alors
     if($userexist = 1) {
         $user = $requser->fetch();
+        //Si l'utilisateur n'est pas confirmé on le confirme en changeant 0 en 1
         if($user['confirme'] == 0) {
             $updateuser = $bdd->prepare("UPDATE membres SET confirme = 1 WHERE pseudo = ? AND confirmkey = ?");
             $updateuser->execute(array($pseudo,$key));
