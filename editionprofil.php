@@ -3,7 +3,7 @@ session_start();
 
 try
 {
-$bdd = new PDO('mysql:host=localhost;dbname=espace_membre', 'root', '');
+$bdd = new PDO('mysql:host=localhost;dbname=clicker', 'root', '');
 }
 
 catch(Exception $e)
