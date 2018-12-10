@@ -2,7 +2,7 @@
 session_start();
 try
 {
-$bdd = new PDO('mysql:host=localhost;dbname=marketingwars', 'root', '');
+$bdd = new PDO('mysql:host=localhost;dbname=espace_membre', 'root', '');
 }
 
 catch(Exception $e)

@@ -1,7 +1,7 @@
 <?php
 try
 {
-$bdd = new PDO('mysql:host=localhost;dbname=marketingwars', 'root', '');
+$bdd = new PDO('mysql:host=localhost;dbname=espace_membre', 'root', '');
 }
 
 catch(Exception $e)
@@ -362,14 +362,6 @@ include 'inscripform.php';
                   </td>
                   <td>
                      <input type="text" class="form-control" id="pseudo" name="pseudo" placeholder="Votre pseudo" value="<?php if(isset($pseudo)) { echo $pseudo; } ?>" />
-                  </td>
-               </tr>
-               <tr>
-                  <td align="right">
-                     <label for="date">Date de naissance :</label>
-                  </td>
-                  <td>
-                     <input type="date" class="form-control" id="datenaissance" name="datenaissance"  value="<?php if(isset($datenaissance)) { echo $datenaissance; } ?>" />
                   </td>
                </tr>
                <tr>
